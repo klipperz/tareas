@@ -3,3 +3,4 @@
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Bienvenido+a+mi+repo!&center=true&width=360&height=30">
 </p>
    Aca encontraras un tutorial basico de phyton
+(./tutorial__intro_phyton_samuel.ipynb)
