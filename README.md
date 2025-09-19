@@ -1,10 +1,10 @@
 Tutorial: Python Básico - Guía Completa
 
 Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<p align="left">
-  
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Bienvenido+a+mi+tutorial+de+Python!&center=true&width=360&height=30">
+# <p align="left">
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=Bienvenido+a+mi+repo!&center=true&width=360&height=30">
 </p>
+
 Por: Samuel Angel Cardona
 
 # Contenido del Tutorial
